@@ -1,5 +1,5 @@
 # Finance_data_analytics
-Public Company Annual Report Fraud Detection:
+Public Company Annual Report Fraud Detection: 
 
 Background:
 Financial fraud has been perplexing the management of the capital market and has become a serious problem, which has also attracted academic scholars' attention. Past experience shows that financial fraud of listed companies has brought serious negative impact on investors and even the whole capital market. According to the statistics of Beasley et al. (2010)1, the average share price of the first financial fraud company fell by 16.7%, and 47% of the financial fraud companies delisted. In addition, four of the top ten bankruptcy cases in American history are also related to significant financial fraud. In recent years, both the frequency and the amount of financial fraud have shown an upward trend, which has increasingly become the concern of investors, auditors and regulators. Financial fraud not only destroys investors' trust in the quality of financial statements, but also seriously disrupts the normal operation of the capital market. Therefore, how to improve the efficiency of financial fraud prediction of listed companies is becoming vita in the current environment.
